@@ -4,6 +4,12 @@
 .custom-bg{
     background-color: #E76F51;
 }
+.custom-color{
+    color: #E76F51;
+}
 .pera-color{
     color: #E0E0E0;
+}
+.gray-scaled{
+    filter: grayscale(1);
 }
