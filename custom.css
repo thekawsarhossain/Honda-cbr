@@ -7,9 +7,25 @@
 .custom-color{
     color: #E76F51;
 }
-.pera-color{
+.top-pera-color{
     color: #E0E0E0;
+}
+.pera-color{
+    color: #6C6C6C;
 }
 .gray-scaled{
     filter: grayscale(1);
+}
+.custom-height{
+    width: 149px;
+    height: 149px;
+}
+.name{
+    color:#23A6F0;
+}
+.profession{
+    color: #252B42;
+}
+.accordion-pera{
+    color:#7E848C;
 }
