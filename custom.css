@@ -29,3 +29,6 @@
 .accordion-pera{
     color:#7E848C;
 }
+.accordion-button:focus{
+    box-shadow: none;
+}
